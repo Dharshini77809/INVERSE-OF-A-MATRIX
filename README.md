@@ -22,6 +22,7 @@ print(A_inv)
 ```
 ## Output:
 <img width="1265" height="759" alt="Screenshot 2026-02-08 132903" src="https://github.com/user-attachments/assets/013028fb-d806-4f12-beb4-2a72a649701d" />
+<img width="1506" height="372" alt="Screenshot 2026-02-08 173005" src="https://github.com/user-attachments/assets/ff03926e-b4e5-409e-9778-30bda8cef488" />
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
